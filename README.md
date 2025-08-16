@@ -2,8 +2,7 @@
 
 I'm Naimul Islam. In short you can call me Saikat.
 
--📖 Currently studying at American International University-Bangladesh (AIUB).
-    BSc. Computer Science And Engineering (CSE)
+-📖 Currently studying in BSc. Computer Science And Engineering(CSE) at American International University-Bangladesh(AIUB).
     
 - 🔭 I’m currently working on cpp, java, c-sharp, python, html-css-javascript
 - 🌱 I’m currently learning phython
