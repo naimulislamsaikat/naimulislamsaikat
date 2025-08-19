@@ -27,8 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimulislamsaikat&show_icons=true&locale=en" alt="naimulislamsaikat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislamsaikat&" alt="naimulislamsaikat" /></p>
-
-<img src="https://raw.githubusercontent.com/naimulislamsaikat/naimulislamsaikat/output/snake.svg" alt="Snake animation" />
-
-###
-
