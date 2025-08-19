@@ -2,6 +2,12 @@
 <h3 align="center">A passionate frontend & backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulislamsaikat&label=Profile%20views&color=0e75b6&style=flat" alt="naimulislamsaikat" /> </p>
+<!--START_SECTION:waka-->
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C739%20hrs%201%20min-blue) -->
+
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-746-blue -->
+
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue) -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimulislamsaikat" alt="naimulislamsaikat" /></a> </p>
 
