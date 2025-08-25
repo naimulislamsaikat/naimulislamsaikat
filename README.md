@@ -6,7 +6,7 @@
   <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200"> ->>
 <!-- </right> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimulislamsaikat" alt="naimulislamsaikat" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimulislamsaikat" alt="naimulislamsaikat" /></a> </p> -->
 
 - 🌱 I’m currently learning **HTML, CSS, JAVA-SCRIPT**
 
