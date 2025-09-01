@@ -2,6 +2,12 @@
 <h3 align="center">A passionate frontend & backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulislamsaikat&label=Profile%20views&color=0e75b6&style=flat" alt="naimulislamsaikat" /> </p>
+
+## ⏳ Weekly Development Breakdown (via WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- <right> -->
   <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200"> ->>
 <!-- </right> -->
