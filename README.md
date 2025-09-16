@@ -14,7 +14,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimulislamsaikat" alt="naimulislamsaikat" /></a> </p> -->
 
-- 🌱 I’m currently learning **HTML, CSS, JAVA-SCRIPT**
+- 🌱 I’m currently learning **Python, HTML, CSS, JAVA-SCRIPT**
 
 - 📫 How to reach me **nzsaikat06@gmail.com**
 
