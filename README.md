@@ -4,16 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulislamsaikat&label=Profile%20views&color=0e75b6&style=flat" alt="naimulislamsaikat" /> </p>
 
 ## ⏳ Weekly Development Breakdown (via WakaTime)
+<!--START_SECTION:waka-->
+
 <p align="left">
   <a href="https://wakatime.com/@d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5"><img src="https://wakatime.com/badge/user/d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5.svg" alt="Total time coded since Feb 13 2025" /></a>
 </p>
 
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<!-- <right> -->
-  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200"> ->>
-<!-- </right> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimulislamsaikat" alt="naimulislamsaikat" /></a> </p> -->
 
@@ -57,3 +54,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimulislamsaikat&show_icons=true&locale=en" alt="naimulislamsaikat" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislamsaikat&" alt="naimulislamsaikat" /></p>
+
+<!-- <left>  -->
+  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250"> -->
+<!-- </left>  -->
