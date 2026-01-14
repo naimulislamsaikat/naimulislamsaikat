@@ -49,12 +49,13 @@
   </a> 
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimulislamsaikat&show_icons=true&locale=en&layout=compact" alt="naimulislamsaikat" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimulislamsaikat&show_icons=true&locale=en" alt="naimulislamsaikat" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislamsaikat&" alt="naimulislamsaikat" /></p>
 
 <!-- <left>  -->
   <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250"> -->
 <!-- </left>  -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimulislamsaikat&show_icons=true&locale=en&layout=compact" alt="naimulislamsaikat" /></p> <!-- n -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimulislamsaikat&show_icons=true&locale=en" alt="naimulislamsaikat" /></p> <!-- n -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislamsaikat&" alt="naimulislamsaikat" /></p>
