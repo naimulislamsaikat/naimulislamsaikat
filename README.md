@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 <p align="left">
-  <a href="https://wakatime.com/@d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5"><img src="https://wakatime.com/badge/user/d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5.svg" alt="Total time coded since Feb 13 2025" /></a>
+  <a href="https://wakatime.com/@d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5"><img src="https://wakatime.com/badge/user/d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5.svg" alt="Total time coded since May 31 2026" /></a>
 </p>
 
 <!--END_SECTION:waka-->
