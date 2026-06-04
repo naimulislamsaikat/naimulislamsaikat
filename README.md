@@ -21,9 +21,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimulislamsaikat" alt="naimulislamsaikat" /></a> </p> -->
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JAVA-SCRIPT**
-
 - 📫 How to reach me **naimulislam.dev@gmail.com**
-
+- 🌐Portfolio https://naimulislamsaikat.github.io/Portfolio/
 - ⚡ Fun fact **Sometimes codes being hard to do.**
 
 <h3 align="left">Connect with me:</h3>
