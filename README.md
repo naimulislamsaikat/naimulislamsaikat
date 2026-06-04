@@ -6,8 +6,8 @@
 </p> 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width 100%;">
-  <img src="https://komarev.com/ghpvc/?username=naimulislamsaikat&label=Profile%20views&color=0e75b6&style=flat" alt="naimulislamsaikat" />
-  <a href="https://wakatime.com/@d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5">
+  <img align="right" src="https://komarev.com/ghpvc/?username=naimulislamsaikat&label=Profile%20views&color=0e75b6&style=flat" alt="naimulislamsaikat" />
+  <a align="left" href="https://wakatime.com/@d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5">
     <img src="https://wakatime.com/badge/user/d06d2e2c-8a4e-4f95-80dc-3e601b9cc6e5.svg" alt="Total time coded since May 31 2026" />
   </a>
 </div>
