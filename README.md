@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naimulislamsaikat&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naimulislamsaikat&show_icons=true&theme=tokyonight" />
   <!-- <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=naimulislamsaikat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
-  <img height="220" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naimulislamsaikat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naimulislamsaikat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   </div>
 <!--
 <p align="center">
