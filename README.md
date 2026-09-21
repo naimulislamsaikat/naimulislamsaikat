@@ -14,7 +14,7 @@
 
 <h2 align="center">🙋‍♂️About me </h2>
 
-- 🌱 I’m currently learning **JAVA-SCRIPT**
+- 🌱 I’m currently learning **Dhango**
 - 📫 How to reach me **naimulislam.dev@gmail.com**
 - 🌐Portfolio https://naimulislamsaikat.github.io/Portfolio/
 - ⚡ Fun fact **Sometimes codes being hard to do.**
